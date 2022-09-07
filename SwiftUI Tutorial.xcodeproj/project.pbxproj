@@ -11,6 +11,7 @@
 		502D291728C5AE8F00BF5255 /* StacksTutorial2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502D291628C5AE8F00BF5255 /* StacksTutorial2.swift */; };
 		502D291928C5D3C300BF5255 /* PaddingTutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502D291828C5D3C300BF5255 /* PaddingTutorial.swift */; };
 		5064662828C8505A00FBCD97 /* SpacersTutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5064662728C8505A00FBCD97 /* SpacersTutorial.swift */; };
+		5064662A28C8591E00FBCD97 /* LoopsTutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5064662928C8591E00FBCD97 /* LoopsTutorial.swift */; };
 		50CB5D2E28C481CE00D90260 /* SwiftUI_TutorialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CB5D2D28C481CE00D90260 /* SwiftUI_TutorialApp.swift */; };
 		50CB5D3028C481CE00D90260 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50CB5D2F28C481CE00D90260 /* ContentView.swift */; };
 		50CB5D3228C481D100D90260 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50CB5D3128C481D100D90260 /* Assets.xcassets */; };
@@ -26,6 +27,7 @@
 		502D291628C5AE8F00BF5255 /* StacksTutorial2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksTutorial2.swift; sourceTree = "<group>"; };
 		502D291828C5D3C300BF5255 /* PaddingTutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingTutorial.swift; sourceTree = "<group>"; };
 		5064662728C8505A00FBCD97 /* SpacersTutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacersTutorial.swift; sourceTree = "<group>"; };
+		5064662928C8591E00FBCD97 /* LoopsTutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoopsTutorial.swift; sourceTree = "<group>"; };
 		50CB5D2A28C481CE00D90260 /* SwiftUI Tutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI Tutorial.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		50CB5D2D28C481CE00D90260 /* SwiftUI_TutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_TutorialApp.swift; sourceTree = "<group>"; };
 		50CB5D2F28C481CE00D90260 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 				502D291628C5AE8F00BF5255 /* StacksTutorial2.swift */,
 				502D291828C5D3C300BF5255 /* PaddingTutorial.swift */,
 				5064662728C8505A00FBCD97 /* SpacersTutorial.swift */,
+				5064662928C8591E00FBCD97 /* LoopsTutorial.swift */,
 			);
 			path = "SwiftUI Tutorial";
 			sourceTree = "<group>";
@@ -164,6 +167,7 @@
 			files = (
 				50CB5D4328C4C03800D90260 /* IconTutorial.swift in Sources */,
 				50CB5D3028C481CE00D90260 /* ContentView.swift in Sources */,
+				5064662A28C8591E00FBCD97 /* LoopsTutorial.swift in Sources */,
 				502D291928C5D3C300BF5255 /* PaddingTutorial.swift in Sources */,
 				5064662828C8505A00FBCD97 /* SpacersTutorial.swift in Sources */,
 				50CB5D3D28C4820C00D90260 /* TextTutorial.swift in Sources */,
